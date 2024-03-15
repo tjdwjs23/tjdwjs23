@@ -33,3 +33,6 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;">
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdwjs23&show_icons=true&theme=radical)
