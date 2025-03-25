@@ -15,7 +15,7 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ktor-339933?style=for-the-badge&logo=Ktor&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=Ktor&logoColor=FFFFFF"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ktorm-000000?style=for-the-badge&logo=Ktorm&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
